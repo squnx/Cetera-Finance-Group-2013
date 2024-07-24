@@ -1,0 +1,23 @@
+/* BDCMaster_custom.css */
+
+#videoMainWrapper { 
+margin: 0;
+padding: 4px;
+}
+#videoLg {
+	padding: 4px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#videoCNP {
+	background: url(../resources/4981169.png) no-repeat;
+	padding:4px;
+	margin-left:6px;
+	margin-right:auto;
+}
+#videoFooter {
+	padding:5px;
+	text-align:center;
+	font-size:10px;	
+}

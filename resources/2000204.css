@@ -1,0 +1,68 @@
+#menu {
+    font-size: 12px;
+    padding-bottom: 10px;
+    width: 980px;
+}
+#menu a:hover {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+#menu a {
+	display:block;
+	margin-bottom:-3px;
+}
+.submenuitems {
+    background-color: #FFFFFF;
+    border: 1px solid #788CC7;
+    color: #666666;
+    cursor: pointer;
+    padding: 2px 3px 3px 5px;
+}
+.menuitems {
+    background-color: #000066;
+    border-right: 1px solid #FFFFFF;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-weight: bold;
+    padding: 2px 0.6em 4px 0.6em;
+}
+.menuhover {
+    background-color: #788CC7;
+    color: #FFFFFF;
+    font-size: 12px;
+    font-weight: bold;
+    position: relative;
+}
+.submenuhover {
+    background-color: #788CC7;
+    color: #FFFFFF;
+    font-family: arial,verdana;
+    font-size: 12px;
+    position: relative;
+}
+.Writing {
+    color: #FFFFFF;
+    font-size: 12px;
+}
+.adjustedZindex {
+    z-index: 1000!important;
+}
+.bck-btn {
+    font-size: 10px;
+    font-weight: bold;
+	position:relative;
+	bottom:-1px;
+	padding:10px 0;
+}
+.lnk-btn {
+    cursor: pointer;
+    padding: 0.4em 1em 0.4em 20px;
+    position: relative;
+    text-decoration: none;
+}
+.icon-btn {
+    left: 0.2em;
+    margin: -8px 5px 0 0;
+    position: absolute;
+    top: 50%;
+}
